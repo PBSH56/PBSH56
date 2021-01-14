@@ -5,9 +5,12 @@
 
    
 
-[![Python](https://img.shields.io/badge/Python-blue.svg?style=flat)](https://www.python.org/)
-[![C/C++](https://img.shields.io/badge/C/C++-green.svg?style=flat)](https://www.learncpp.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-red.svg??style=for-the-badge&logo=appveyor)](https://www.javascript.com/)
+[![Python](https://img.shields.io/badge/Python-black.svg??style=for-the-badge&logo=python)](https://www.python.org/)
+[![C/C++](https://img.shields.io/badge/C/C++-black.svg??style=for-the-badge&logo=c)](https://www.learncpp.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-black.svg??style=for-the-badge&logo=javascript)](https://www.javascript.com/)
+[![DJANGO](https://img.shields.io/badge/DJANGO-black.svg??style=for-the-badge&logo=DJANGO)](www.djangoproject.com)
+[![Linux](https://img.shields.io/badge/Linux-black.svg??style=for-the-badge&logo=linux)]()
+
 
 </div>
 

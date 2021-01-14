@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<div align="center">
+   
+
+[![Python](https://img.shields.io/badge/Python-blue.svg?style=flat)]
+[![C/C++](https://img.shields.io/badge/c++-green.svg?style=flat)]
+
+</div>
+
 <!--
 **PBSH56/PBSH56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
